@@ -1,0 +1,1 @@
+id	nombre	plataformas	idioma	empresa
